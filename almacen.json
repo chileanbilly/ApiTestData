@@ -1,0 +1,153 @@
+{
+  "eventos": [
+    {
+      "id": "000031650212",
+      "nombre": "2° Seminario de Competencias Ágiles",
+      "modalidad": "Presencial",
+      "fecha": "2024-11-25",
+      "organiza": "Kibernum, Ágiles Chile, Agile Alliance, In Motion",
+      "imagen": "https://i.ibb.co/7z9zwwP/1.png",
+      "escuela": "Escuela de Informática y Telecomunicaciones",
+      "comentario": [
+        {
+          "usuario": "tu.trivino",
+          "comentario": "Alguien de administracion que vaya?? para no ir solo :("
+        },
+        {
+          "usuario": "ju.bodoque",
+          "comentario": "Mejor ágil que tradicional zzzzz"
+        },
+        {
+          "usuario": "TEHGABOX",
+          "comentario": "yo te acompaño @tu.trivino"
+        }
+      ]
+    },
+    {
+      "id": "000033494812",
+      "nombre": "Taller de Robótica",
+      "modalidad": "Presencial",
+      "fecha": "2024-11-27",
+      "organiza": "Centro de Innovación y Transferencia Tecnológica (Citt) Sede Maipú",
+      "imagen": "https://i.ibb.co/7J5WVRG/2.png",
+      "escuela": "Escuela de Informática y Telecomunicaciones",
+      "comentario": [
+        {
+          "usuario": "tu.trivino",
+          "comentario": "Aquí del Citt Sede Antoni Varas! Confirmo mi asistencia."
+        },
+        {
+          "usuario": "ju.bodoque",
+          "comentario": "Que bueeena, voy a poder hacer robots!"
+        },
+        {
+          "usuario": "ser.moreno",
+          "comentario": "Esperando con ansias el evento :)"
+        }
+      ]
+    },
+    {
+      "id": "000051524621",
+      "nombre": "Charla de Ingeniería Cloud",
+      "modalidad": "Presencial",
+      "fecha": "2024-11-28",
+      "organiza": "Docentes DuocUC Sede Maipú",
+      "imagen": "https://i.ibb.co/FmNmbJr/3.png",
+      "escuela": "Escuela de Informática y Telecomunicaciones",
+      "comentario": [
+        {
+          "usuario": "tu.trivino",
+          "comentario": "Qué es la ingeniería cluod?"
+        },
+        {
+          "usuario": "ju.bodoque",
+          "comentario": "El año pasado estuve en una y fue muy entrete, ojalá esta esté a la altura. "
+        }
+      ]
+    },
+    {
+      "id": "000092814621",
+      "nombre": "Taller de Programación Web",
+      "modalidad": "Presencial",
+      "fecha": "2024-11-30",
+      "organiza": "Viviana Poblete - Docente DuocUC Sede Maipú",
+      "imagen": "https://i.ibb.co/G7zFDnV/4.png",
+      "escuela": "Escuela de Informática y Telecomunicaciones",
+      "comentario": [
+        {
+          "usuario": "tu.trivino",
+          "comentario": "Es nivel básico o intermedio?"
+        },
+        {
+          "usuario": "ju.bodoque",
+          "comentario": "Grande profe vivi <33"
+        },
+        {
+          "usuario": "ser.moreno",
+          "comentario": "Esperando con ansias el evento!!"
+        }
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "ser.moreno",
+      "name": "Sergio Moreno Cepeda",
+      "email": "ser.moreno@duocuc.cl",
+      "password": "Crgio2905",
+      "rut": "21025613-k",
+      "imagen": "",
+      "isactive": "true"
+    },
+    {
+      "id": "0f30",
+      "username": "ju.bodoque",
+      "name": "Juan Carlos Bodoque",
+      "email": "chiwilman1@gmail.com",
+      "password": "Crgio2905",
+      "rut": "21025613-k",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "a6f0",
+      "username": "tu.trivino",
+      "name": "Tulio Triviño",
+      "email": "crgiomorenocepeda@gmail.com",
+      "password": "Crgio2905",
+      "rut": "21025613-k",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "e32a",
+      "username": "pe.parker",
+      "name": "Peter Parker",
+      "email": "spiderman@gmail.com",
+      "password": "Crgio2905",
+      "rut": "21025613-k",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "c6d0",
+      "username": "be.garcia",
+      "name": "Benjamín García",
+      "email": "be.garcia@duocuc.cl",
+      "password": "Crgio2905",
+      "rut": "6493410-4",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "2e93",
+      "username": "TEHGABOX",
+      "name": "Gabriel.r",
+      "email": "gabr.rodriguezc@duocuc.cl",
+      "password": "GGG.123.rrr",
+      "rut": "21701811-0",
+      "isactive": true
+    }
+  ]
+}
